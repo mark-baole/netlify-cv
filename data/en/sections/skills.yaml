@@ -29,6 +29,9 @@ skills:
   logo: /images/sections/skills/sql.png
   summary: "Experienced in writing SQL queries for data analysis and data extraction. Optimizing SQL queries for performance and cost."
   
+- name: Causal Inference
+  summary: "Experienced in building causal inference models using observational data."
+
 - name: Docker
   logo: /images/sections/skills/docker.svg
   summary: "Write most of the programs as dockerized container. Experienced with multi-stage process."

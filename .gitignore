@@ -1,2 +1,7 @@
 resources/*
 node_modules/*
+
+content/posts/category/*
+content/posts/introduction/*
+content/posts/markdown-sample/*
+content/posts/shortcodes/*

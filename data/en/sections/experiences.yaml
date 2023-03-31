@@ -11,54 +11,61 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: KIOTVIET TECHNOLOGY CORPORATION.
+    # url: "https://www.example.com"
+    location: Hanoi, Vietnam
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: KiotViet is a startup company that provides sales management software for small and medium-sized enterprises.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Data Scientist
+    start: May 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+    - Leads a team of 8 to build KiotViet Product Ontology and Product Matching using NER & S-BERT, including system architecture design, data enrichment, data annotation and model deployment. Increased the Product Matching accuracy from 35% to 78% and Product Industry Classification accuracy from 60% to 86%.
+    - Built and deployed models for Retailer Industry Classification using NLP techniques, improving Retailers’ Industry Classification accuracy from 82% to 93%.
+    - Built analytical dashboards to track app’s performance and operational metrics.
+    - Built and deployed classification models to assess lending customers’ credibility score and customer propensity score.
+    
+- company:
+    name: DATAPOT CO. LTD & FOREIGN TRADE UNIVERSITY
+    # url: "https://www.example.com"
+    location: Vietnam
+    overview: "Datapot is a training and consulting company that provides data analytics solutions for businesses; Foreign Trade University is a leading tertiary education institution in Vietnam."
+  positions:
+  - designation: Lecturer
+    start: May 2022
+    # end: Nov 2021
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Give lectures in Data Mining and SQL to university students.
+
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: SEA Ltd.
+    # url: "https://www.example.com"
+    location: Singapore
+    overview: SEA Limited is a leading global consumer internet company founded in Singapore.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Data Analyst
+    start: May 2021
+    end: Nov 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Produced BI reports on performance metrics of financial products of ShopeePay
+    - Produced ad hoc reports, RFM customer segmentation and analysis.
+    - Built a model to detect anomalies in daily metrics, improving report’s accuracy.
+    - Optimised SQL queries to reduce server resource consumption and improve query performance.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Airpay JSC
+    # url: "https://www.example.com"
+    location: Vietnam
+    overview: Airpay is the provider of the popular e-wallet ShopeePay.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Senior Accountant/BI Analyst
+    start: Aug 2017
+    end: Dec 2020
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Designed dashboards and reports, drafted documentation to help local team keep track of the company’s financial position.
+    - Performed periodically analytical review, analysed trends and user behaviour that discovered and pre-empted reporting errors.
+    - Automated the ETL process from AirPay backend system to accounting-ready data using Python & SQL, saving 100 man-hours monthly and improving reports’ accuracy.

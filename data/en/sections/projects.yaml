@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Projects
+  name: Projects (WIP)
   id: projects
   enable: true
   weight: 5
@@ -21,13 +21,13 @@ buttons:
 
 # your projects
 projects:
-- name: Product Matching
+- name: Product Discovery
   # logo: /images/sections/projects/kubernetes.png
   role: Team Lead
   timeline: "November 2022 - March 2023"
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Product Matching model based on semantic similarity.
+  summary: Production-Grade NLP models for Product Matching, Product Classification and Attribute Extraction
   tags: ["NLP", "machine-learning", "professional"]
 
 - name: Document Classification
@@ -43,7 +43,7 @@ projects:
   role: Data Scientist
   timeline: "May 2022 - September 2022"
   # url: "https://www.example.com"
-  summary: Visualise and analyse user behavior for a lending company.
+  summary: Visualise and analyse user behavior for a lending app.
   tags: ["professional","fintech"]
 
 # - name: Nocode

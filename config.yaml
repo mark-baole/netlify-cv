@@ -91,13 +91,13 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: false
+      enable: true
       # Share post on different social media
       shareButtons:
         facebook: true
-        twitter: true
+        twitter: false
         linkedin: true
-        reddit: true
+        reddit: false
         whatsapp: true
         email: true
         # tumblr: true

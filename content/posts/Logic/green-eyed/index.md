@@ -12,7 +12,7 @@ hero: ted-image.jpg
 mermaid: false
 ---
 
-So I came across the Green-eyed logic puzzle from Ted-ed that goes:
+So I came across the Green-eyed logic puzzle from [Ted-ed](https://www.youtube.com/watch?v=98TQv5IAtY8) that goes:
 
 ## The problem
 1. There is an island with 100 prisoners, all of who have green eyes.

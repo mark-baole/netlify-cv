@@ -12,12 +12,12 @@ section:
 degrees:
 - name: Master of IT in Business
   icon: fa-microscope
-  timeframe: 2011-2022
+  timeframe: 2021-2022
   institution:
     name: Singapore Management University
     url: "#"
   grade: #(optional)
-    scale: CGPA
+    scale: GPA
     achieved: 3.99
     outOf: 4
   # publications: #(optional)

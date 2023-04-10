@@ -30,14 +30,14 @@ projects:
   summary: Production-Grade NLP models for Product Matching, Product Classification and Attribute Extraction
   tags: ["NLP", "machine-learning", "professional"]
 
-- name: Document Classification
+- name: Product Deduplication
   # logo: /images/sections/projects/tensorflow.png
   role: Developer
-  timeline: "January 2022 - May 2022"
+  timeline: "March 2023"
   # repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: A document classification model for a legal documents.
-  tags: ["academic", "machine-learning"]
+  summary: A product clustering and deduplication system using Siamese Network, ANN and Graph theory.
+  tags: ["professional", "machine-learning"]
 
 - name: User Behavior Analysis
   role: Data Scientist
